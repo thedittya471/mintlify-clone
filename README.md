@@ -26,7 +26,7 @@ A simple recreation of the Mintlify landing page using HTML and CSS only.
 ## 📸 Screenshots
 
 ### Hero Section
-![Hero Section](./assets/hero.png)
+![Hero Section](./assets/home.png)
 
 ### Intelligent Agent Section
 ![Agent Section](./assets/agent.png)
